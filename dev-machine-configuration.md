@@ -23,6 +23,8 @@ Python 2.7 goes unsupported in 2020 so beat to upgrade it
 - `brew install python` will install 3.x
 - `pip install virtualenv`
 
+## Install JQ
+- 'brew install jq'
 ## Install Atom
 
 - `brew cask install atom`
